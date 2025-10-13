@@ -5,7 +5,7 @@
     </h1>
     <p class="mt-4 text-gray-600">
       Vue 3 + Vite + Vue Router + Pinia + Tailwind + Axios
-      в будущем он стрельнет , я отвечаю
+      в будущем он стрельнет , im so tuff
     </p>
   </div>
 </template>
